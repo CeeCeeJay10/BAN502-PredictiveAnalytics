@@ -1,4 +1,4 @@
 # BAN502-PredictiveAnalytics
 BAN 502 Course Files
 
-Initial file to understand Github features
+Initial repository created to practice using Github and understand its features.
